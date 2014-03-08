@@ -1,7 +1,9 @@
 DueDDS : A Library to host an AD9850 DDS Module on Arduino DUE, using hard SPI
 
-This is a library which controls the widely available, low-cost Direct Digital Synthesis Modules,
-based on the Analog Devices 9850 chip on the Arduino Due.
+This is a library which controls the widely available,
+low-cost Direct Digital Synthesis ('DDS') Modules,
+based on the Analog Devices 9850 chip 
+on the Arduino Due.
 
 The library uses the Due's enhanced hardware SPI capability.
 
