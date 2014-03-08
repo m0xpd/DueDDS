@@ -10,3 +10,7 @@ The module's W_CLOCK line and DATA line are connected to SCK and MISO respective
 Two IO lines are required for the other "control lines" to the AD9850 module (RESET & FQ_UD).
 
 A further "Slave Select" line (one of lines 4, 10, or 52) is nominated but not used.
+
+To download and use this Library, click the DOWNLOAD ZIP button (on the RHS of the screeen). 
+Uncompressed the ZIP archive and rename the folder DueDDS.
+Put this folder in you Arduino Libraries folder and restart the Arduino IDE.
