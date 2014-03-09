@@ -5,6 +5,9 @@ low-cost Direct Digital Synthesis ('DDS') Modules,
 based on the Analog Devices 9850 chip 
 on the Arduino Due.
 
+For more information:
+http://m0xpd.blogspot.co.uk/2014/03/dds-and-duedds-libraries.html
+
 The library uses the Due's enhanced hardware SPI capability.
 
 The module's W_CLOCK line and DATA line are connected to SCK and MISO respectively on the SPI header. 
